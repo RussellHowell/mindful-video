@@ -7,7 +7,7 @@ Manually importing & organizing HD/UHD footage from modern mirrorless/DSLR camer
 * [Mindful Video Bash](https://github.com/RussellHowell/mindful-video-bash "mindful-video-bash") (Planned)
 
 ## Camera Format Support
-* [Mindful Video Sony Library](https://github.com/RussellHowell/mindful-video-node "mindful-video-lib-sony") (In Development)
+* [Mindful Video Sony Library](https://github.com/RussellHowell/mindful-video-lib-sony "mindful-video-lib-sony") (In Development)
 
 
 ### Useful Information
